@@ -112,8 +112,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions, suggestions, or feedback, feel free to reach out:
 
-- **Jalaj Dabas** - [jalajdabas4@gmail.com](mailto:jalajxdabas@gmail.com)
-- **GitHub**: [jalajxdabas](https://github.com/jalajxdabas)
+- **bhavya sharma** - [bhavya.sharma690@gmail.com](mailto:bhavya.sharma690@gmail.com)
+- **GitHub**: [bhavyasharma2003](https://github.com/bhavyasharma2003)
 
 ---
 
